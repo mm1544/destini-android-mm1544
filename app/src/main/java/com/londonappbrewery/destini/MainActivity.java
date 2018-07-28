@@ -14,15 +14,6 @@ public class MainActivity extends AppCompatActivity {
     https://stackoverflow.com/questions/34947794/cant-resolve-appcompatactivity/50897316#50897316
      */
 
-    /*
-    private QuestionModel[] questionBank = new QuestionModel[]{
-            new QuestionModel(R.string.T1_Story, R.string.T1_Ans1, R.string.T2_Ans1),
-    };
-
-    */
-
-
-
 
     // TODO: Steps 4 & 8 - Declare member variables here:
     private TextView mStoryTextView;
@@ -113,16 +104,4 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
-
-
-
-    /*
-    // do we realy need it??
-    private void updateStory(int chosenAnswer ){
-    }
-    */
-
-    //private void update(int question, int answer1, int answer2){
-    //}
 }
